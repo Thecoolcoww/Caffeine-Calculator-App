@@ -11,7 +11,7 @@ Wir wollen testen ob unsere fertige App gut bedienbar, alltagstauglich und anspr
 ### Wie wollen wir das Resultat bewerten?
 Die Resultate werden anhand von Beobachtungen während der Nutzung sowie durch direktes Feedback der Testpersonen bewertet.
 
-## Nutzertest Lara B. (20 J.), Studentin 
+## Nutzertest Lara B. (20 J.), PH Studentin
 
 ## Protokoll
 
