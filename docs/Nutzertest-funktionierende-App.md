@@ -21,6 +21,8 @@ Die wichtigsten Funktionen sind schnell auffindbar. Die Suchfunktion beim Calcul
 ### Verbesserungspotential:
 Kein Verbesserungspotential. Testperson ist sehr begeistert.
 
+### Protokoll
+
 <img width="596" height="355" alt="image" src="https://github.com/user-attachments/assets/8b6ad8a4-1841-462b-b49c-02ee7f4d9af6" />
 
 ## Nutzertest Phillip S. (23 J.), Mitarbeiter Migrosbank Interne Kontrolle
@@ -34,7 +36,9 @@ Die App ist sehr verständlich und einfach aufgebaut. Besonders die hilfreichen 
 Noch mehr Ergänzungen wären interessant. 
 
 ### Unsere Meinung zum Verbesserungspotential:
-Noch mehr Ergänzungen haben wir bereits als Optionale Ideen hinterlegt, konnten sie jedoch in so kurzer Zeit nicht mehr umsetzen. 
+Noch mehr Ergänzungen haben wir bereits als Optionale Ideen hinterlegt, konnten sie jedoch in so kurzer Zeit nicht mehr umsetzen.
+
+### Protokoll
 
 <img width="645" height="409" alt="image" src="https://github.com/user-attachments/assets/e06c3090-17fa-4f5f-9803-102e9bf1ac38" />
 
