@@ -12,12 +12,19 @@ Wir wollen testen ob unsere fertige App gut bedienbar, alltagstauglich und anspr
 Die Resultate werden anhand von Beobachtungen während der Nutzung sowie durch direktes Feedback der Testpersonen bewertet.
 
 ## Nutzertest Lara B. (20 J.), Studentin der PH
+### Allgemeines Feedback:
+### Das war besonders gut:
+### Verbesserungspotential:
+Protokoll
 
-### War gut
-
-## Protokoll
+## Nutzertest Phillip S. (23 J.), Mitarbeiter Migrosbank Interne Kontrolle
+### Allgemeines Feedback:
+### Das war besonders gut:
+### Verbesserungspotential:
+Protokoll
 
 ## Auswertungstemplate
+-> Was ist das???
 
 ## Fragen und Schlussfolgerungen
 ### 1. Lässt sich die App ohne Anleitung bedienen?
