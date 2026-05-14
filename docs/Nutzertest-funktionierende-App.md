@@ -1,7 +1,17 @@
 # Nutzertest funktionierende App
-Abschliessendes Testing
+Das abschliessende Testing.
 
 ## Hypothesenbildung
+### Was wollen wir mit dem Nutzertest der funktionierenden App lernen?
+Mit dem finalen Nutzertest wollen wir überprüfen, ob die fertige App im Alltag verständlich, übersichtlich und benutzerfreundlich funktioniert. Obwohl bereits zuvor ein Wireframe-Nutzertest durchgeführt wurde, wollten wir herausfinden, wie Nutzer:innen mit der vollständig entwickelten App interagieren und ob die geplanten Funktionen gut genutzt werden können.
+
+### Was wollen wir testen?
+Wir wollen testen ob unsere fertige App gut bedienbar, alltagstauglich und ansprechend ist. Auch werden technische Hürden wie schlecht lesbare Schriftgrössen oder unübersichtliche Buttons getestet.
+
+### Wie wollen wir das Resultat bewerten?
+Die Resultate werden anhand von Beobachtungen während der Nutzung sowie durch direktes Feedback der Testpersonen bewertet.
+
+## Nutzertest Lara
 
 ## Protokoll
 
