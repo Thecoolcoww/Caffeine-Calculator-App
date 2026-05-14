@@ -13,15 +13,29 @@ Die Resultate werden anhand von Beobachtungen während der Nutzung sowie durch d
 
 ## Nutzertest Lara B. (20 J.), Studentin der PH
 ### Allgemeines Feedback:
+Die App ist sehr modern und auch alltagstauglich. Besonders die angenehme Farbgestaltung sowie die einfache Navigation sticht hervor.
+
 ### Das war besonders gut:
+Die wichtigsten Funktionen sind schnell auffindbar. Die Suchfunktion beim Calculator ist sehr praktisch und allgemein ist alles sehr gut lesbar.
+
 ### Verbesserungspotential:
-<img width="667" height="384" alt="image" src="https://github.com/user-attachments/assets/bb9dc59a-e9a9-4fef-ae89-1529740be556" />
+Kein Verbesserungspotential. Testperson ist sehr begeistert.
+
+<img width="596" height="355" alt="image" src="https://github.com/user-attachments/assets/8b6ad8a4-1841-462b-b49c-02ee7f4d9af6" />
 
 ## Nutzertest Phillip S. (23 J.), Mitarbeiter Migrosbank Interne Kontrolle
 ### Allgemeines Feedback:
-Die App ist sehr modern, übersichtlich und benutzerfreundlich. Besonders positiv aufgefallen ist
+Die App ist sehr modern, übersichtlich und benutzerfreundlich. Besonders positiv aufgefallen ist die klare Struktur, das professionelle Design sowie die einfache Bedienung.
+
 ### Das war besonders gut:
+Die App ist sehr verständlich und einfach aufgebaut. Besonders die hilfreichen Empfehlungen und die History- und Tagebuchfunktion ist herausgestochen.
+
 ### Verbesserungspotential:
+Noch mehr Ergänzungen wären interessant. 
+
+### Unsere Meinung zum Verbesserungspotential:
+Noch mehr Ergänzungen haben wir bereits als Optionale Ideen hinterlegt, konnten sie jedoch in so kurzer Zeit nicht mehr umsetzen. 
+
 <img width="645" height="409" alt="image" src="https://github.com/user-attachments/assets/e06c3090-17fa-4f5f-9803-102e9bf1ac38" />
 
 ## Auswertungstemplate
