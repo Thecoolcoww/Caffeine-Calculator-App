@@ -15,13 +15,14 @@ Die Resultate werden anhand von Beobachtungen während der Nutzung sowie durch d
 ### Allgemeines Feedback:
 ### Das war besonders gut:
 ### Verbesserungspotential:
-Protokoll
+<img width="770" height="437" alt="image" src="https://github.com/user-attachments/assets/f0d27e3e-abb4-4d25-9d22-14015865012c" />
 
 ## Nutzertest Phillip S. (23 J.), Mitarbeiter Migrosbank Interne Kontrolle
 ### Allgemeines Feedback:
 ### Das war besonders gut:
 ### Verbesserungspotential:
-Protokoll
+<img width="533" height="382" alt="image" src="https://github.com/user-attachments/assets/80703220-9e7a-477d-b086-f23009e775df" />
+
 
 ## Auswertungstemplate
 -> Was ist das???
