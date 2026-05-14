@@ -15,14 +15,14 @@ Die Resultate werden anhand von Beobachtungen während der Nutzung sowie durch d
 ### Allgemeines Feedback:
 ### Das war besonders gut:
 ### Verbesserungspotential:
-<img width="770" height="437" alt="image" src="https://github.com/user-attachments/assets/f0d27e3e-abb4-4d25-9d22-14015865012c" />
+<img width="667" height="384" alt="image" src="https://github.com/user-attachments/assets/bb9dc59a-e9a9-4fef-ae89-1529740be556" />
 
 ## Nutzertest Phillip S. (23 J.), Mitarbeiter Migrosbank Interne Kontrolle
 ### Allgemeines Feedback:
+Die App ist sehr modern, übersichtlich und benutzerfreundlich. Besonders positiv aufgefallen ist
 ### Das war besonders gut:
 ### Verbesserungspotential:
-<img width="533" height="382" alt="image" src="https://github.com/user-attachments/assets/80703220-9e7a-477d-b086-f23009e775df" />
-
+<img width="645" height="409" alt="image" src="https://github.com/user-attachments/assets/e06c3090-17fa-4f5f-9803-102e9bf1ac38" />
 
 ## Auswertungstemplate
 -> Was ist das???
