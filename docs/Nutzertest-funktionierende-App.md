@@ -22,6 +22,7 @@ Die wichtigsten Funktionen sind schnell auffindbar. Die Suchfunktion beim Calcul
 Kein Verbesserungspotential. Testperson ist sehr begeistert.
 
 ### Protokoll
+<img width="501" height="172" alt="image" src="https://github.com/user-attachments/assets/4a3eb7e5-edfb-4932-b9b9-d9201fa05060" />
 
 <img width="596" height="355" alt="image" src="https://github.com/user-attachments/assets/8b6ad8a4-1841-462b-b49c-02ee7f4d9af6" />
 
@@ -39,6 +40,7 @@ Noch mehr Ergänzungen wären interessant.
 Noch mehr Ergänzungen haben wir bereits als Optionale Ideen hinterlegt, konnten sie jedoch in so kurzer Zeit nicht mehr umsetzen.
 
 ### Protokoll
+<img width="508" height="170" alt="image" src="https://github.com/user-attachments/assets/e6f52a22-98c5-47db-a682-f24f62e9d299" />
 
 <img width="645" height="409" alt="image" src="https://github.com/user-attachments/assets/e06c3090-17fa-4f5f-9803-102e9bf1ac38" />
 
