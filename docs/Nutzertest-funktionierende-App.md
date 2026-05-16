@@ -52,7 +52,7 @@ Noch mehr Ergänzungen haben wir bereits als Optionale Ideen hinterlegt, konnten
 Ja, die Testpersonen konnten die App problemlos ohne zusätzliche Anleitung bedienen. Besonders positiv wurde hervorgehoben, dass die App farblich klar strukturiert und auf den ersten Blick übersichtlich aufgebaut ist.
 
 ### 2. Finden Nutzer:innen die wichtigsten Funktionen sofort?
-Ja, die wichtigsten Funktioinen konnten schnell gefunden werden. Durch die übersichtliche Gestaltung (auch farblich) und die klare Navigation wussten die Testpersonen jederzeit, wo sie hinklicken müssen.
+Ja, die wichtigsten Funktionen konnten schnell gefunden werden. Durch die übersichtliche Gestaltung (auch farblich) und die klare Navigation wussten die Testpersonen jederzeit, wo sie hinklicken müssen.
 
 ### 3. Wirkt der Inhalt logisch und übersichtlich?
 Ja, der Inhalt wurde als logisch aufgebaut und gut verständlich beschrieben. Die Testpersonen fanden sich schnell zurecht und empfanden die Struktur als sinnvoll.
