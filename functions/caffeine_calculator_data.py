@@ -1,11 +1,12 @@
+import streamlit as st
 import pandas as pd
-
 from utils.data_manager import DataManager
 from functions.caffeine_calculator_math import caffeine_effect_duration_hours
 
 
-DATA_FILE = "data.csv"
-CURRENT_FILE = "current_caffeine.json"
+username = st.session_state.get("username", "default_user")
+DATA_FILE = f"data_{username}.csv"
+CURRENT_FILE = f"current_caffeine_{username}.json"
 
 data_manager = DataManager(
     fs_protocol="webdav",
@@ -57,10 +58,22 @@ def save_history(df):
 
 
 def load_current():
-    return data_manager.load_user_data(
+    data = data_manager.load_user_data(
         CURRENT_FILE,
         initial_value=empty_current_data()
     )
+
+    if isinstance(data, str):
+        try:
+            import json
+            data = json.loads(data)
+        except:
+            return empty_current_data()
+
+    if not isinstance(data, dict):
+        return empty_current_data()
+
+    return data
 
 
 def save_current(data):
