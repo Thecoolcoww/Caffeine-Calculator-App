@@ -5,7 +5,8 @@ Jede Version ist funktionsfähig und erweiterbar.
 
 ## MVP Basis - Auf dem Weg zum MVP
 Grundstruktur der App erstellen:
-- Leere, lauffähige App aufsetzen 
+- Leere, lauffähige App aufsetzen
+- App vollständig auf Englisch gestalten (einheitlich)
 - Navigation mit ersten Seiten vorbereiten, z. B. Home, Calculator
 - App veröffentlichen
 
@@ -14,12 +15,14 @@ Logins:
 - Datensicherung: Speicherung der Daten pro Nutzer
 
 Profilseite (Your Profile):
-- Name, Alter, Gewicht (kg), Grösse (cm) 
-- Geschlecht 
+- Name, Alter, Geschlecht, Gewicht (kg), Grösse (m) 
+- Save Button 
 
 Zusätzliche Daten (Additional Data):
-- Medikamenteneinnahme 
-- weitere relevante Faktoren (z. B. Grunderkrankungen, Allergien)
+- Vorerkrankungen (Beispiel: Bluthochdruck)
+- Allergien (Beispiel: Guarana Allergie)
+- Medikamente (Beispiel: Ritalin)
+- Ausgabe: personalisierte Empfehlungen, Warnhinweise zu Interaktionen 
 
 Diese Version bildet die Basis der App.
 
@@ -34,18 +37,18 @@ Berechnung:
 - Gesamte aktuelle Koffeinmenge -> alle aktuell ausgewählten Getränke werden zusammengerechnet
 - Wirkungsdauer des Koffeins -> Countdown (zählt in Echtzeit runter)
 - Remaining Effect -> App berechnet die verbleibende Wirkungszeit
-- Koffeinmenge pro Kilogramm Körpergewicht und persönlicher Tagesrichtwert wird berechnet
-- Risikoeinschätzung -> App bewertet die Koffeinmenge anhand mg/kg
+- Koffeinmenge pro Kilogramm Körpergewicht und persönlicher Tagesrichtwert werden berechnet
+- Risikoeinschätzung -> App bewertet die Koffeinmenge anhand des mg/kg-Werts
 
 Ausgabe:
 - Ausgewähltes Getränk
 - Koffeinmenge und Volumen
-- Caffeine Timeline -> App zeigt die wichtigsten Wirkungsphasen
+- Caffeine Timeline -> App zeigt die wichtigsten Wirkungsphasen (Peak, Crash, Recovery)
 - Animierter Countdown -> Zeigt die verbleibende Wirkungszeit in Stunden, Minuten und Sekunden (inkl. visueller Darstellung anhand eines Gefässes bei dem der Flüssigkeitsstand mit der verbleibenden Wirkung sinkt)
 - Current Calculator Entries -> zeigt aktuell gespeicherte Koffeinmenge im Rechner
 - Clear Button -> Nutzer:innen können die aktuellen Einträge direkt löschen
 - Personalized Caffeine Impact -> zeigt persönliche Werte
-- Fortschrittsbalken zeigt, wie viel Prozent des persönlichen richtwerts bereits erreicht wurde
+- Fortschrittsbalken zeigt, wie viel Prozent des persönlichen Richtwerts bereits erreicht wurde
 
 Ziel: Funktionierender Kern der App
 
@@ -61,6 +64,8 @@ My Diary:
 Ziel: langfristiges Tracking des Konsums
 
 ## Version 2.0 - Erweiterung: Empfehlungen (Recommendations)
+Direkt mit dem Calculator verknüpft. Empfehlungen werden nur angezeigt, wenn zuvor im Calculator ein Getränk ausgewählt wurde.
+
 Visualisierung:
 - Darstellung in Form einer Kurve (z. B. Peak, Abbau, Müdigkeit) 
 
@@ -85,11 +90,9 @@ Auswahl alternativer Getränke:
 - mit Koffein (z. B. Guarana)
 - ohne Koffein (z. B. Kräutertee) 
 
-Empfehlungen je nach Situation:
-- z. B. bei Müdigkeit oder Schlafproblemen 
-
 Informationsbereich:
-- kurze Beschreibung der Alternativen 
+- kurze Beschreibung der Alternativen
+- Dosierungsempfehlung für die ausgewählte Alternative
 
 Ziel: bewusster Konsum statt nur Berechnung
 
