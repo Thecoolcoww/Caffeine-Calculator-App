@@ -2,7 +2,9 @@
 
 ## Ziel
 ### Was war das Ziel?
-Unser Ziel war es, eine benutzerfreundliche Koffeinrechner-App zu entwickeln, die Nutzer:innen hilft, ihren Koffeinkonsum besser zu verstehen und zu kontrollieren. Durch zusätzliche Funktionen wie Tipps, Alternativen, Challenges und die Möglichkeit, Freunde hinzuzufügen, sollte die App motivierend und alltagstauglich gestaltet werden.
+Unser Ziel war es, eine benutzerfreundliche Koffeinrechner-App zu entwickeln, die Nutzer:innen hilft, ihren Koffeinkonsum besser zu verstehen und zu kontrollieren. Durch zusätzliche Funktionen wie Tipps, Bilder, Alternativen und Empfehlungen sollte die App motivierend und alltagstauglich gestaltet werden.
+
+Zusätzlich war es unser Ziel, gesundheitliche Zusammenhänge verständlich darzustellen und dabei zu unterstützen, bewusster mit Koffein umzugehen. Die App sollte nicht nur Daten anzeigen, sondern auch durch ansprechende Visualisierungen und persönliche Berechnungen einen Mehrwert bieten.
 
 ### Wurde das Ziel erreicht? 
 Ja, wir haben unser Ziel erreicht. Wir konnten eine funktionierende App entwickeln und die geplanten Funktionen erfolgreich umsetzen. Die Zusammenarbeit im Team hat sehr gut funktioniert und verlief reibungslos. Besonders positiv war, dass jede Person ihren Beitrag geleistet und eigene Ideen eingebracht hat, wodurch das Projekt vielseitiger und besser wurde.
@@ -31,7 +33,7 @@ Probleme wurden gemeinsam besprochen und anschliessend nach Lösungen gesucht, w
 
 ## Learnings
 ### Was haben wir gelernt? 
-Wir haben gelernt wie wichtig gute Planung und Teamarbeit sind. Ausserdem konnten wir unsere Kenntnisse in VS Code und im Programmieren deutlich verbessern. Zusätzlich haben wir verstanden, wie wichtig regelmässiges Testen ist, damit die App zuverlässig funktioniert. 
+Wir haben gelernt, wie wichtig gute Planung und Teamarbeit sind. Ausserdem konnten wir unsere Kenntnisse in VS Code und im Programmieren deutlich verbessern. Zusätzlich haben wir verstanden, wie wichtig regelmässiges Testen ist, damit die App zuverlässig funktioniert. 
 
 Ein grosses Learning war für uns auch der Bereich Design und Strukturierung einer App. Wir haben gelernt, wie stark verschiedene Seiten und Funktionen miteinander verknüpft sind und wie wichtig eine klare und übersichtliche Benutzerführung ist. Zudem haben wir verstanden, dass auch kleine Änderungen im Design Auswirkungen auf andere Bereiche der App haben können.
 
@@ -41,4 +43,4 @@ Unsere Zusammenarbeit verlief sehr gut, da wir stets offen kommuniziert und uns 
 Dadurch konnten wir motiviert bleiben und effizient zusammenarbeiten. Jede Person hat ihren Teil zum Projekt beigetragen und eigene Ideen eingebracht, wodurch wir gemeinsam ein gutes Endergebnis erreichen konnten.
 
 ## KI
-Während der Entwicklung unserer Koffein App haben wir teilweise KI zur Unterstützung verwendet. Dabei war uns jedoch wichtig, die vorgeschlagenen Codes nicht einfach zu übernehmen, sondern auch zu verstehen. Daher haben wir die einzelnen Codeabschnitte langsam durchgelesen, analysiert und versucht zu verstehen. Wenn wir bestimmte Funktionen oder Begriffe nicht kannten, haben wir zusätzlich recherchiert und uns informiert, wie diese funktionieren.
+Während der Entwicklung unserer Koffein-App haben wir teilweise KI zur Unterstützung verwendet. Dabei war uns jedoch wichtig, die vorgeschlagenen Codes nicht einfach zu übernehmen, sondern auch zu verstehen. Daher haben wir die einzelnen Codeabschnitte langsam durchgelesen, analysiert und versucht zu verstehen. Wenn wir bestimmte Funktionen oder Begriffe nicht kannten, haben wir zusätzlich recherchiert und uns informiert, wie diese funktionieren.
