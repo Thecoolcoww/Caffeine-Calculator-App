@@ -64,7 +64,7 @@ My Diary:
 Ziel: langfristiges Tracking des Konsums
 
 ## Version 2.0 - Erweiterung: Empfehlungen (Recommendations)
-Direkt mit dem Calculator verknüpft. Empfehlungen werden nur angezeigt, wenn zuvor im Calculator ein Getränk ausgewählt wurde.
+Direkt mit dem Calculator und History verknüpft. Empfehlungen werden nur angezeigt, wenn zuvor im Calculator ein Getränk ausgewählt wurde und aktuell noch Koffeinwirkung im Körper vorhanden ist.
 
 Visualisierung:
 - Darstellung in Form einer Kurve (z. B. Peak, Abbau, Müdigkeit) 
