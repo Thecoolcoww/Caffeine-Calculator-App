@@ -1,6 +1,6 @@
 ## BMLD-Inf2-AppV0
 
-https://diagnostic-detective-app.streamlit.app/
+https://caffeine-calculator-app.streamlit.app/ 
 
 ## Projektbeschrieb Caffeine-Calculator-App
 Die Caffeine-Calculator-App wurde entwickelt, um ein alltägliches, aber häufig unterschätztes Problem sichtbar und verständlicher zu machen. Koffein gehört für viele Menschen zum Alltag und wird regelmässig konsumiert. Egal ob Kaffee, Energy Drinks, Mate oder andere koffeinhaltige Getränke. Besonders im Zusammenhang mit der Schule, Studium, Arbeit, Stress oder Schlafmangel greifen viele Personen täglich zu Koffein, um leistungsfähiger oder wacher zu bleiben. Obwohl Koffein gesellschaftlich weitgehend akzeptiert und normalisisert wird, wissen viele Menschen gar nicht genau, wie viel Koffein sie tatsächlich konsumieren und was für Auswirkungen dies auf den eigenen Körper haben kann. 
