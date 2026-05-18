@@ -31,10 +31,10 @@ Wirkungsdauer = 3.0 + (Koffeinmenge/80) x 1.2
 3.0 ist die Grundwirkung von 3 Stunden. 80 ist der Referenzwert eines normalen koffeinhaltigen Getränks. 1.2 ist die Zusatzdauer je nach Koffeinmenge. 
 ##### Koffein pro Körpergewicht
 mg/kg = gesamte Koffeinmenge/Körpergewicht
-#### Persönlicher Tagesrichtwert
+##### Persönlicher Tagesrichtwert
 Tagesrichtwert = Körpergewicht (kg) x 3 mg
 3 mg basieren auf häufig verwendeten Empfehlungen aus Sport-, Ernährungs- und Gesundheitsbereichen.
-#### BMI-Berechnung
+##### BMI-Berechnung
 Gewicht (kg)/ Grösse (m)²
 
 #### History:
