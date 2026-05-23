@@ -20,7 +20,7 @@ Profilseite (Your Profile):
 
 Zusätzliche Daten (Additional Data):
 - Vorerkrankungen (Beispiel: Bluthochdruck)
-- Allergien (Beispiel: Guarana Allergie)
+- Allergien (Beispiel: Guarana-Allergie)
 - Medikamente (Beispiel: Ritalin)
 - Ausgabe: personalisierte Empfehlungen, Warnhinweise zu Interaktionen 
 
@@ -64,7 +64,7 @@ My Diary:
 Ziel: langfristiges Tracking des Konsums
 
 ## Version 2.0 - Erweiterung: Empfehlungen (Recommendations)
-Direkt mit dem Calculator und History verknüpft. Empfehlungen werden nur angezeigt, wenn zuvor im Calculator ein Getränk ausgewählt wurde und aktuell noch Koffeinwirkung im Körper vorhanden ist.
+Direkt mit dem Calculator und der History verknüpft. Empfehlungen werden nur angezeigt, wenn zuvor im Calculator ein Getränk ausgewählt wurde und aktuell noch Koffeinwirkung im Körper vorhanden ist.
 
 Visualisierung:
 - Darstellung in Form einer Kurve (z. B. Peak, Abbau, Müdigkeit) 
@@ -77,13 +77,13 @@ Anzeige von Zuständen wie:
 
 Interaktive Auswahl:
 - Nutzer können auswählen, wie sie sich fühlen
-- passende Empfehlungen werden angezeigt 
+- Passende Empfehlungen werden angezeigt 
 
 Detailseiten (z. B. „I can’t fall asleep“):
 - konkrete Tipps zur Verbesserung 
 - Hinweise zum Umgang mit zu viel Koffein 
 
-Ziel: Nutzer verstehen ihren Koffeinzustand besser und erhalten direkte Hilfe bei Problemen 
+Ziel: Nutzer:innen verstehen ihren Koffeinzustand besser und erhalten direkte Hilfe bei Problemen 
 
 ## Version 3.0 - Erweiterung: Alternativen
 Auswahl alternativer Getränke:
