@@ -6,14 +6,14 @@ Das abschliessende Testing.
 Mit dem finalen Nutzertest wollen wir überprüfen, ob die fertige App im Alltag verständlich, übersichtlich und benutzerfreundlich funktioniert. Obwohl bereits zuvor ein Wireframe-Nutzertest durchgeführt wurde, wollten wir herausfinden, wie Nutzer:innen mit der vollständig entwickelten App interagieren und ob die geplanten Funktionen gut genutzt werden können.
 
 ### Was wollen wir testen?
-Wir wollen testen ob unsere fertige App gut bedienbar, alltagstauglich und ansprechend ist. Auch werden technische Hürden wie schlecht lesbare Schriftgrössen oder unübersichtliche Buttons getestet.
+Wir wollen testen, ob unsere fertige App gut bedienbar, alltagstauglich und ansprechend ist. Auch werden technische Hürden wie schlecht lesbare Schriftgrössen oder unübersichtliche Buttons getestet.
 
 ### Wie wollen wir das Resultat bewerten?
 Die Resultate werden anhand von Beobachtungen während der Nutzung sowie durch direktes Feedback der Testpersonen bewertet.
 
 ## Nutzertest Lara B. (20 J.), Studentin der PH
 ### Allgemeines Feedback:
-Die App ist sehr modern und auch alltagstauglich. Besonders die angenehme Farbgestaltung sowie die einfache Navigation sticht hervor.
+Die App ist sehr modern und auch alltagstauglich. Besonders die angenehme Farbgestaltung sowie die einfache Navigation stechen hervor.
 
 ### Das war besonders gut:
 Die wichtigsten Funktionen sind schnell auffindbar. Die Suchfunktion beim Calculator ist sehr praktisch und allgemein ist alles sehr gut lesbar.
@@ -31,21 +31,18 @@ Kein Verbesserungspotential. Testperson ist sehr begeistert.
 Die App ist sehr modern, übersichtlich und benutzerfreundlich. Besonders positiv aufgefallen ist die klare Struktur, das professionelle Design sowie die einfache Bedienung.
 
 ### Das war besonders gut:
-Die App ist sehr verständlich und einfach aufgebaut. Besonders die hilfreichen Empfehlungen und die History- und Tagebuchfunktion ist herausgestochen.
+Die App ist sehr verständlich und einfach aufgebaut. Besonders die hilfreichen Empfehlungen und die History- und Tagebuchfunktion sind herausgestochen.
 
 ### Verbesserungspotential:
 Noch mehr Ergänzungen wären interessant. 
 
 ### Unsere Meinung zum Verbesserungspotential:
-Noch mehr Ergänzungen haben wir bereits als Optionale Ideen hinterlegt, konnten sie jedoch in so kurzer Zeit nicht mehr umsetzen.
+Noch mehr Ergänzungen haben wir bereits als optionale Ideen hinterlegt, konnten sie jedoch in so kurzer Zeit nicht mehr umsetzen.
 
 ### Protokoll
 <img width="508" height="170" alt="image" src="https://github.com/user-attachments/assets/e6f52a22-98c5-47db-a682-f24f62e9d299" />
 
 <img width="645" height="409" alt="image" src="https://github.com/user-attachments/assets/e06c3090-17fa-4f5f-9803-102e9bf1ac38" />
-
-## Auswertungstemplate
--> Was ist das???
 
 ## Fragen und Schlussfolgerungen
 ### 1. Lässt sich die App ohne Anleitung bedienen?
@@ -82,6 +79,6 @@ Es wurden keine technischen Probleme festgestellt. Die Schrift war sehr gut lesb
 Die Testpersonen würden die App grundsätzlich weiterempfehlen, insbesondere an Personen, die regelmässig koffeinhaltige Getränke konsumieren oder Schwierigkeiten mit Koffein haben.
 
 ### Fazit Nutzertest:
-Unsere Hypothesen konnten alle im positiven bestätigt werden. Da wir bereits zu Beginn einen Wireframe-Nutzertest durchgeführt haben, konnten mögliche Probleme und Unklarheiten frühzeitig erkannt und anschliessend gezielt verbessert werden. Dadurch konnte unsere finale App deutlich optimiert werden.
+Unsere Hypothesen konnten alle positiv bestätigt werden. Da wir bereits zu Beginn einen Wireframe-Nutzertest durchgeführt haben, konnten mögliche Probleme und Unklarheiten frühzeitig erkannt und anschliessend gezielt verbessert werden. Dadurch konnte unsere finale App deutlich optimiert werden.
 
 Der Nutzertest zeigte, dass die Caffeine-Calculator-App insgesamt sehr alltagstauglich, übersichtlich und benutzerfreundlich gestaltet ist. Unser Ziel wurde erreicht.
